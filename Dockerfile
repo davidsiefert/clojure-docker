@@ -9,3 +9,5 @@ WORKDIR /home/dev
 RUN lein -v
 
 CMD /bin/bash
+
+EXPOSE 3000
