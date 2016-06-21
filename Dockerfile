@@ -10,4 +10,4 @@ RUN lein -v
 
 CMD /bin/bash
 
-EXPOSE 3000
+EXPOSE 1024-9999
